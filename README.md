@@ -10,7 +10,7 @@ Students are expected to:
 Student Info
 =======================
 
-* Name: *YourNameHere*
-* ID: *YourIdHere*
-* Group ID: *Your Group ID here*
-* Project Name: *Your Project Name here*
+* Name: Le Tuan Anh
+* ID: Ba11-005
+* Group ID: 20
+* Project Name: Flickr Browser
